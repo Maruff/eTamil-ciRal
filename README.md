@@ -13,8 +13,8 @@ The goal is to develop ciRal, a framework using Rust and eTamil to offer functio
 3. **eTamil's Use of Existing Rust Tools and Libraries**: eTamil can interact with existing Rust tools and libraries via FFI (Foreign Function Interface) or bindings, enabling reuse of the robust Rust ecosystem.
 
 ### **Overall Project Structure**
-   **Prerequisite Libraries for eTamil Language**
-   **Core Tools/Libraries Development**
+   - **Prerequisite Libraries for eTamil Language**
+   - **Core Tools/Libraries Development**:
      - Routing System
      - Service Container (Dependency Injection)
      - ORM/Database Abstraction
@@ -26,8 +26,8 @@ The goal is to develop ciRal, a framework using Rust and eTamil to offer functio
      - Localization Support
      - Notification and Alert System
      - Plugin and Extensibility System
-   **Integration and Framework Compilation**
-
+   - **Integration and Framework Compilation**
+ 
 ### **Step-by-Step Procedure for ciRal Development**
 
 #### **1. Prerequisite Tools and Libraries for eTamil Language**
