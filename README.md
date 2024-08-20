@@ -1,5 +1,5 @@
 # eTamil-ciRal
-Framework of tools and libraries for eTamil
+A framework of tools and libraries for eTamil
 
 ### **1. Prerequisite Libraries for eTamil Language**
 
